@@ -17,5 +17,13 @@ Built With:
 -Unity UI System for score display
 -CharacterController for player movement
 
+Controls:
+| Action        | Key         |
+|---------------|-------------|
+| Move Left     | Left Arrow  |
+| Move Right    | Right Arrow |
+| Jump          | Spacebar    |
+
+
 ![Screenshot (43)](https://github.com/user-attachments/assets/dcd9ef2f-5919-47c0-9bea-27b7a5542382)
 ![Screenshot (42)](https://github.com/user-attachments/assets/12f8a9bd-133c-490e-a36a-27f0b25a4e73)
